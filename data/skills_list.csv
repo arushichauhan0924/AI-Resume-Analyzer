@@ -1,0 +1,94 @@
+skill,category,aliases
+python,language,py
+java,language,
+javascript,language,js|java script
+typescript,language,ts
+c,language,
+c++,language,cpp
+c#,language,csharp|c sharp
+go,language,golang
+r,language,
+kotlin,language,
+swift,language,
+php,language,
+html,web,html5
+css,web,css3
+react,web,reactjs|react.js
+angular,web,angularjs
+vue,web,vuejs|vue.js
+node.js,web,nodejs|node js|node
+express,web,expressjs|express.js
+django,web,
+flask,web,
+fastapi,web,fast api
+spring boot,web,springboot
+rest api,web,restful api|rest apis|restful
+bootstrap,web,
+tailwind,web,tailwind css|tailwindcss
+sql,database,
+mysql,database,
+postgresql,database,postgres
+mongodb,database,mongo
+sqlite,database,
+redis,database,
+firebase,database,
+machine learning,ml,ml
+deep learning,ml,dl
+artificial intelligence,ml,ai
+data science,ml,
+natural language processing,ml,nlp
+computer vision,ml,cv|opencv
+neural networks,ml,neural network|ann
+cnn,ml,convolutional neural network
+rnn,ml,recurrent neural network
+lstm,ml,
+transformers,ml,transformer|bert
+generative ai,ml,gen ai|genai
+llm,ml,llms|large language model|large language models
+langchain,ml,
+scikit-learn,ml,sklearn|scikit learn
+tensorflow,ml,
+keras,ml,
+pytorch,ml,torch
+xgboost,ml,
+numpy,data,
+pandas,data,
+matplotlib,data,
+seaborn,data,
+plotly,data,
+scipy,data,
+nltk,data,
+spacy,data,
+data analysis,data,data analytics
+data visualization,data,data visualisation
+data cleaning,data,data preprocessing|data wrangling
+feature engineering,ml,
+eda,data,exploratory data analysis
+statistics,data,statistical analysis
+power bi,tools,powerbi
+tableau,tools,
+excel,tools,ms excel|microsoft excel
+jupyter,tools,jupyter notebook
+streamlit,tools,
+git,tools,
+github,tools,
+docker,devops,
+kubernetes,devops,k8s
+aws,cloud,amazon web services
+azure,cloud,microsoft azure
+gcp,cloud,google cloud|google cloud platform
+ci/cd,devops,cicd
+linux,tools,
+postman,tools,
+vs code,tools,vscode
+agile,soft,scrum
+data structures,cs,dsa|data structures and algorithms
+algorithms,cs,
+oop,cs,object oriented programming|object-oriented programming
+operating systems,cs,os
+dbms,cs,database management system
+computer networks,cs,networking
+problem solving,soft,problem-solving
+communication,soft,communication skills
+teamwork,soft,team work|collaboration
+leadership,soft,
